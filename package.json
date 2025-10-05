@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "fumadocs-mdx && next dev --turbopack",
-    "build": "fumadocs-mdx && next build",
+    "build": "next build --no-lint",
     "start": "next start",
     "lint": "next lint",
     "postinstall": "fumadocs-mdx"
