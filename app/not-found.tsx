@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
-import { FlickeringGrid } from "@/components/magicui/flickering-grid";
 import Home from "@/components/magicui/Lemon-home";
 
 export default function NotFound() {
